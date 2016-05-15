@@ -1,5 +1,15 @@
 # Build notes
 
+
+## Alternatives
+
+Thanks to Adolfo Villafiorita for all the work on packaging shower (w/ s9).
+Keep it up.
+See <https://github.com/avillafiorita/slideshow-reveal.js>
+
+
+## Update Notes
+
 Get zip archive from release page
 -> <https://github.com/hakimel/reveal.js/releases>
 

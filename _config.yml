@@ -1,0 +1,22 @@
+#####
+#  GitHub Pages / Jekyll settings / config
+
+headers:
+  title:     reveal.js – The HTML Presentation Framework
+  author:    Hakim El Hattab
+  generator: GitHub Pages w/ Jekyll
+  theme:     black
+
+
+collections:
+  slides:
+    output: false
+
+
+exclude:
+- README.md
+- BUILD.md
+- CHANGELOG.md
+- reveal.js.LICENSE
+- reveal.js.txt
+- sample.md
