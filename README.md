@@ -56,7 +56,8 @@ That's it.
 ## Example
 
 ```
-title: reveal.js – The HTML Presentation Framework
+title: reveal.js
+subtitle: The HTML Presentation Framework
 description: A framework for easily creating beautiful presentations using HTML
 author: Hakim El Hattab
 theme: black

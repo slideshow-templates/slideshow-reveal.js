@@ -3,7 +3,7 @@
 
 ## Alternatives
 
-Thanks to Adolfo Villafiorita for all the work on packaging shower (w/ s9).
+Thanks to Adolfo Villafiorita for all the work on packaging reveal.js (w/ s9).
 Keep it up.
 See <https://github.com/avillafiorita/slideshow-reveal.js>
 
