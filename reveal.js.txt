@@ -1,0 +1,79 @@
+######################################################################
+# Sample Slide Show (S9) template package manifest using reveal.js
+# - reveal.js by Hakim El Hattab; see https://github.com/hakimel/reveal.js
+#
+# Change as desired/needed
+#
+# Configured to use the following headers in slides.html:
+#
+# theme: black|white|league|sky|beige|simple|serif|blood|night|moon|solarized
+# author: Your Name Here
+# title: Your Slide Show Title Here
+# subtitle: Your Slide Show Subtitle Here
+#
+# Questions? Comments?
+# Send them along to the wwwmake forum/mailing List.
+# http://groups.google.com/group/wwwmake
+
+
+__file__.html slides.html
+
+css/reveal.css
+css/print/paper.css
+css/print/pdf.css
+css/theme/beige.css
+css/theme/black.css
+css/theme/blood.css
+css/theme/league.css
+css/theme/moon.css
+css/theme/night.css
+css/theme/serif.css
+css/theme/simple.css
+css/theme/sky.css
+css/theme/solarized.css
+css/theme/white.css
+
+js/reveal.js
+
+lib/css/zenburn.css
+
+lib/font/league-gothic/league-gothic.css
+lib/font/league-gothic/league-gothic.eot
+lib/font/league-gothic/league-gothic.ttf
+lib/font/league-gothic/league-gothic.woff
+lib/font/source-sans-pro/source-sans-pro-italic.eot
+lib/font/source-sans-pro/source-sans-pro-italic.ttf
+lib/font/source-sans-pro/source-sans-pro-italic.woff
+lib/font/source-sans-pro/source-sans-pro-regular.eot
+lib/font/source-sans-pro/source-sans-pro-regular.ttf
+lib/font/source-sans-pro/source-sans-pro-regular.woff
+lib/font/source-sans-pro/source-sans-pro-semibold.eot
+lib/font/source-sans-pro/source-sans-pro-semibold.ttf
+lib/font/source-sans-pro/source-sans-pro-semibold.woff
+lib/font/source-sans-pro/source-sans-pro-semibolditalic.eot
+lib/font/source-sans-pro/source-sans-pro-semibolditalic.ttf
+lib/font/source-sans-pro/source-sans-pro-semibolditalic.woff
+lib/font/source-sans-pro/source-sans-pro.css
+
+lib/js/classList.js
+lib/js/head.min.js
+lib/js/html5shiv.js
+
+plugin/highlight/highlight.js
+plugin/markdown/example.html
+plugin/markdown/example.md
+plugin/markdown/markdown.js
+plugin/markdown/marked.js
+plugin/math/math.js
+plugin/multiplex/client.js
+plugin/multiplex/index.js
+plugin/multiplex/master.js
+plugin/multiplex/package.json
+plugin/notes/notes.html
+plugin/notes/notes.js
+plugin/notes-server/client.js
+plugin/notes-server/index.js
+plugin/notes-server/notes.html
+plugin/print-pdf/print-pdf.js
+plugin/search/search.js
+plugin/zoom-js/zoom.js
