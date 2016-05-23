@@ -18,6 +18,6 @@ exclude:
 - README.md
 - BUILD.md
 - CHANGELOG.md
-- reveal.js.LICENSE
+- LICENSE.reveal.js.txt
 - reveal.js.txt
 - sample.md
