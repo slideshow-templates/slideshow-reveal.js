@@ -2,6 +2,8 @@
 
 ## Live Preview
 
+![](preview.png)
+
 See [`slides.html`](http://slideshow-templates.github.io/slideshow-reveal.js/slides.html).
 
 For testing see
