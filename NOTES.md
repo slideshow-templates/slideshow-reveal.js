@@ -5,6 +5,8 @@
 See <https://github.com/avillafiorita/slideshow-reveal.js/blob/95617d67102b333463bebabcfc95344c9650027d/doc/s9-reveal.textile>
 
 - [ ] vertical slides - up/down missing
+- [ ] theme support with property missing
+- [ ] and some more
 
 ```
  <link rel="stylesheet" href="reveal.js/css/reveal.min.css">
